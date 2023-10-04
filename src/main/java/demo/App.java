@@ -25,10 +25,13 @@ public class App {
         // sh.testCase04();
         // sh.endTest();
 
-        Nestedframe fram = new Nestedframe();
+        // Nestedframe fram = new Nestedframe();
+        // fram.testCase07();
+        // fram.endTest();
 
-        fram.testCase07();
-        fram.endTest();
+        Movieratings move = new Movieratings();
+        move.testCase10();
+        move.endTest();
         //TODO: call your test case functions one after other here
 
         // tests.testCase01();
