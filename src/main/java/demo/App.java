@@ -17,9 +17,13 @@ public class App {
         // links.testCase02();
         // links.endTest();
 
-        Linkedlnpost post = new Linkedlnpost();
-        post.testCase03();
-        post.endTest();
+        // Linkedlnpost post = new Linkedlnpost();
+        // post.testCase03();
+        // post.endTest();
+
+        Bookshow sh = new Bookshow();
+        sh.testCase04();
+        sh.endTest();
         //TODO: call your test case functions one after other here
 
         // tests.testCase01();
