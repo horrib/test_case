@@ -9,9 +9,13 @@ public class App {
     public void getGreeting() throws Exception {
         // TestCases tests = new TestCases(); // Initialize your test class
 
-        Amazon ama = new Amazon();
-        ama.testCase01();
-        ama.endTest();
+        // Amazon ama = new Amazon();
+        // ama.testCase01();
+        // ama.endTest();
+        
+        Counthyperlinks links = new Counthyperlinks();
+        links.testCase02();
+        links.endTest();
         //TODO: call your test case functions one after other here
 
         // tests.testCase01();
