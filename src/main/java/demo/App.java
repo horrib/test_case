@@ -12,10 +12,14 @@ public class App {
         // Amazon ama = new Amazon();
         // ama.testCase01();
         // ama.endTest();
-        
-        Counthyperlinks links = new Counthyperlinks();
-        links.testCase02();
-        links.endTest();
+
+        // Counthyperlinks links = new Counthyperlinks();
+        // links.testCase02();
+        // links.endTest();
+
+        Linkedlnpost post = new Linkedlnpost();
+        post.testCase03();
+        post.endTest();
         //TODO: call your test case functions one after other here
 
         // tests.testCase01();
