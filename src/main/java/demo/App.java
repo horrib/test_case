@@ -29,9 +29,13 @@ public class App {
         // fram.testCase07();
         // fram.endTest();
 
-        Movieratings move = new Movieratings();
-        move.testCase10();
-        move.endTest();
+        // Movieratings move = new Movieratings();
+        // move.testCase10();
+        // move.endTest();
+
+        Windowhand han = new Windowhand();
+        han.testCase09();
+        han.endTest();
         //TODO: call your test case functions one after other here
 
         // tests.testCase01();
